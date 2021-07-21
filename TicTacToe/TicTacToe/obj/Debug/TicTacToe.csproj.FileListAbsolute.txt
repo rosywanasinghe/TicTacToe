@@ -1,0 +1,6 @@
+/Users/rosywanasinghe/Desktop/Desktop - Rosy’s MacBook Pro/Rosy/Code/TicTacToe/TicTacToe/obj/Debug/TicTacToe.csproj.AssemblyReference.cache
+/Users/rosywanasinghe/Desktop/Desktop - Rosy’s MacBook Pro/Rosy/Code/TicTacToe/TicTacToe/obj/Debug/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/rosywanasinghe/Desktop/Desktop - Rosy’s MacBook Pro/Rosy/Code/TicTacToe/TicTacToe/bin/Debug/TicTacToe.exe
+/Users/rosywanasinghe/Desktop/Desktop - Rosy’s MacBook Pro/Rosy/Code/TicTacToe/TicTacToe/bin/Debug/TicTacToe.pdb
+/Users/rosywanasinghe/Desktop/Desktop - Rosy’s MacBook Pro/Rosy/Code/TicTacToe/TicTacToe/obj/Debug/TicTacToe.exe
+/Users/rosywanasinghe/Desktop/Desktop - Rosy’s MacBook Pro/Rosy/Code/TicTacToe/TicTacToe/obj/Debug/TicTacToe.pdb
